@@ -1,0 +1,14 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: #136297;
+    border: 10px solid black;
+}
+
+.ativa {
+    display: block;
+}
+
+.oculta {
+    display: none;
+}
